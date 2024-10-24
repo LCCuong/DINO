@@ -8,7 +8,7 @@ import os
 import sys
 from typing import Iterable
 
-from util.utils import slprint, to_device
+from .util.utils import slprint, to_device
 
 import torch
 
