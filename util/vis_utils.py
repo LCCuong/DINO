@@ -1,8 +1,8 @@
 import cv2
 import numpy as np
 
-from util.utils import renorm
-from util.misc import color_sys
+from .utils import renorm
+from .misc import color_sys
 
 _color_getter = color_sys(100)
 
